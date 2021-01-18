@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Lab#1 CSI2532
+Sydroy Rakotonomenjanahary
+300041897
+(added my info)
